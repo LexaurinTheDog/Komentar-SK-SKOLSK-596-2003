@@ -2,14 +2,14 @@
 
 ### § 39e
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Správne konania, ktoré boli začaté a právoplatne neukončené do 31. decembra 2012, sa dokončia podľa doterajších predpisov.
 
 Ustanovenie § 39e je klasickým prechodným ustanovením zakladajúcim zásadu nepravej retroaktivity pri zmene procesnej úpravy. Novela zákona, ktorá s účinnosťou od 1. januára 2013 zmenila hmotnoprávnu alebo procesnú úpravu správnych konaní vedených podľa tohto zákona (typicky konania o zaradení, vyradení alebo zmene v sieti škôl a školských zariadení, konania o registrácii alebo obdobné konania v pôsobnosti orgánov štátnej správy v školstve), zároveň potrebovala vyriešiť osud konaní, ktoré k rozhodnému dňu ešte prebiehali. Zákonodarca zvolil riešenie, podľa ktorého sa konania začaté a právoplatne neukončené do 31. decembra 2012 dokončia podľa doterajších (teda pred novelou účinných) predpisov, a nie podľa novej úpravy. Ide o štandardný legislatívny prístup, ktorý chráni legitímne očakávania účastníkov konania, ktorí podanie urobili a procesné úkony vykonávali za skoršej právnej úpravy, a zabraňuje situácii, v ktorej by sa v priebehu jedného konania menili pravidlá hry. Praktický dopad tohto ustanovenia je dnes už len historický, keďže ide o dočasnú (spotrebovanú) normu viažucu sa na konkrétny okamih nadobudnutia účinnosti novely; jej relevancia pretrváva len pri posudzovaní právoplatnosti a zákonnosti rozhodnutí vydaných v prechodnom období.
 
 ### § 39f
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Obec v roku 2013 oznámi zriaďovateľom podľa § 6 ods. 12 písm. b) a základným umeleckým školám, jazykovým školám, materským školám a školským zariadeniam vo svojej zriaďovateľskej pôsobnosti výšku finančných prostriedkov určených podľa § 6 ods. 12 písm. c) tretieho bodu na kalendárny rok najneskôr do 30. apríla.
 >
 > (2) Samosprávny kraj v roku 2013 oznámi zriaďovateľom podľa § 9 ods. 12 písm. b) a základným umeleckým školám, jazykovým školám, materským školám a školským zariadeniam vo svojej zriaďovateľskej pôsobnosti výšku finančných prostriedkov určených podľa § 9 ods. 12 písm. c) tretieho bodu na kalendárny rok najneskôr do 30. apríla.
@@ -18,7 +18,7 @@ Ustanovenie § 39f rieši jednorazovú organizačnú úlohu spojenú so zaveden�
 
 ### § 39g
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenie k úpravám účinným od 1. januára 2014
 >
 > O žiadostiach o zaradení do siete alebo žiadostiach o zmene v sieti, ktoré boli podané a o ktorých sa právoplatne nerozhodlo do 31. decembra 2013, sa rozhodne podľa predpisu účinného od 1. januára 2014.
@@ -27,7 +27,7 @@ Na rozdiel od § 39e, ktorý pri zmene procesnej úpravy uprednostnil dokončeni
 
 ### § 39h
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenia k úpravám účinným od 1. septembra 2015
 >
 > (1) Spôsob spracúvania údajov v centrálnom registri pre školský rok 2015/2016 oznámi ministerstvo na svojom webovom sídle do 5. septembra 2015.
@@ -38,7 +38,7 @@ Ustanovenie § 39h sprevádza zavedenie (respektíve podstatnú novelizáciu) ce
 
 ### § 39ha
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenie k úprave účinnej od 1. júla 2016
 >
 > V konaní začatom pred 1. júlom 2016, ktoré nebolo právoplatne skončené, sa postupuje podľa predpisov účinných do 30. júna 2016.
@@ -47,7 +47,7 @@ Ustanovenie § 39ha sa svojou konštrukciou vracia k modelu použitému v § 39e
 
 ### § 39hb
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenia k úpravám účinným od 1. septembra 2017
 >
 > (1) Ak školský klub detí zriadený do 31. augusta 2017 nie je súčasťou základnej školy, zriaďovateľ zabezpečí všetky úkony smerujúce k tomu, aby bol školský klub detí najneskôr od 1. septembra 2018 súčasťou základnej školy, inak ministerstvo rozhodne o vyradení školského klubu detí zo siete.
@@ -58,7 +58,7 @@ Odsek 1 reaguje na zmenu koncepcie školského klubu detí, ktorý sa novelou ú
 
 ### § 39hc
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenie k úpravám účinným od 1. januára 2019
 >
 > Obce prispôsobia školské obvody základných škôl určené podľa doterajších predpisov tak, aby od školského roka 2019/2020 zohľadňovali skutočnosti uvedené v § 8 ods. 1 v znení účinnom od 1. januára 2019. Príspevok na dopravu patriaci žiakovi, ktorý plní povinnú školskú dochádzku na prvom stupni základnej školy alebo na druhom stupni základnej školy v školskom obvode určenom podľa predpisov účinných do 31. decembra 2018, zostáva zachovaný aj v nasledujúcich ročníkoch žiaka príslušného stupňa na tejto základnej škole.
@@ -67,7 +67,7 @@ Ustanovenie § 39hc sprevádza novelizáciu kritérií pre vymedzenie školskýc
 
 ### § 39hd
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenia počas trvania mimoriadnej situácie, núdzového stavu alebo výnimočného stavu vyhláseného v súvislosti s ochorením COVID-19
 >
 > (1) Ak funkčné obdobie orgánu školskej samosprávy uplynulo od 12. marca 2020 pred nadobudnutím účinnosti tohto zákona a technické podmienky neumožňujú ustanoviť nový orgán školskej samosprávy, pôsobnosti orgánu školskej samosprávy rozhodujúce pre organizáciu školského roka a uskutočňovanie výchovy a vzdelávania, ktoré neznesú odklad, vykonáva počas mimoriadnej situácie, núdzového stavu alebo výnimočného stavu vyhláseného v súvislosti s ochorením COVID-19 orgán školskej samosprávy, ktorého funkčné obdobie uplynulo. Ak sa počas tohto obdobia ustanoví nový orgán školskej samosprávy, výkon pôsobnosti príslušného orgánu školskej samosprávy sa skončí dňom nasledujúcim po dni, v ktorom bol nový orgán školskej samosprávy ustanovený.
@@ -78,7 +78,7 @@ Ustanovenie § 39hd predstavuje súčasť mimoriadnej (krízovej) legislatívy r
 
 ### § 39he
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenia k úpravám účinným od 1. januára 2022
 >
 > (1) Pôsobnosť okresného úradu v sídle kraja na úseku školstva, mládeže, telesnej kultúry a športu podľa predpisov účinných do 31. decembra 2021 prechádza od 1. januára 2022 na regionálny úrad v príslušnom územnom obvode.
@@ -105,7 +105,7 @@ Odsek 7 rieši prechodné personálne obsadenie vedúcej funkcie regionálneho �
 
 ### § 39hf
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenie k úpravám účinným od 1. januára 2022
 >
 > Od 1. januára 2022 do 31. decembra 2022 sa do siete nezaraďujú zariadenia poradenstva a prevencie a elokované pracoviská zariadení poradenstva a prevencie. O žiadostiach o zaradení školského zariadenia výchovného poradenstva a prevencie do siete, ktoré boli podané a o ktorých sa právoplatne nerozhodlo pred 1. januárom 2022, sa rozhodne podľa predpisov účinných do 31. decembra 2021.
@@ -114,7 +114,7 @@ Ustanovenie § 39hf nadväzuje na obdobné dočasné moratórium už zavedené v
 
 ### § 39hg
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenie k úpravám účinným od 1. januára 2022
 >
 > Žiacke školské rady ustanovené podľa predpisov účinných do 31. decembra 2021 sa považujú za školské parlamenty podľa predpisov účinných od 1. januára 2022.
@@ -123,7 +123,7 @@ Ustanovenie § 39hg rieši terminologickú a inštitucionálnu kontinuitu pri pr
 
 ### § 39hh
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenia k úpravám účinným od 1. januára 2022
 >
 > (1) Obec poskytne v roku 2022 zriaďovateľovi cirkevnej základnej umeleckej školy, zriaďovateľovi cirkevnej jazykovej školy, zriaďovateľovi cirkevného školského zariadenia, zriaďovateľovi súkromnej základnej umeleckej školy, zriaďovateľovi súkromnej jazykovej školy a zriaďovateľovi súkromného školského zariadenia finančné prostriedky na mzdy a prevádzku len na dieťa, žiaka alebo na poslucháča do dovŕšenia 15 rokov veku.
@@ -140,7 +140,7 @@ Odseky 3 a 4 upravujú procesnú stránku prvého roka nového systému — povi
 
 ### § 39hi
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenie k úpravám účinným od 1. novembra 2022
 >
 > Elektronická schránka podľa § 38a ods. 3 sa zriadi a aktivuje postupom podľa osobitného predpisu81b) do 30. septembra 2023.
@@ -149,7 +149,7 @@ Ustanovenie § 39hi rieši prechod na povinné doručovanie prostredníctvom ele
 
 ### § 39hj
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenie k úpravám účinným od 1. januára 2023
 >
 > Konanie o priestupku alebo konanie o správnom delikte, ktoré bolo začaté a právoplatne neukončené do 31. decembra 2022, sa dokončia podľa zákona v znení účinnom do 31. decembra 2022.
@@ -158,7 +158,7 @@ Ustanovenie § 39hj nadväzuje na už opísaný model kontinuity procesnej úpra
 
 ### § 39hk
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenie k úpravám účinným od 1. septembra 2023
 >
 > Obecné zastupiteľstvo prerokuje skutočnosť, že obec neposkytla z príjmov z výnosu dane z príjmov fyzických osôb materským školám vo svojej zriaďovateľskej pôsobnosti plnú výšku finančných prostriedkov na základe počtu detí materských škôl v zriaďovateľskej pôsobnosti obce, podľa predpisov účinných od 1. septembra 2023, najskôr v kalendárnom roku 2025 vo vzťahu k finančným prostriedkom poskytnutým v kalendárnom roku 2024; to platí, aj ak ide o zverejnenie dôvodov, pre ktoré obec neposkytla plnú výšku finančných prostriedkov na svojom webovom sídle.
@@ -167,7 +167,7 @@ Ustanovenie § 39hk odkladá časovú účinnosť novej kontrolnej povinnosti ob
 
 ### § 39hl
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenie k úpravám účinným dňom vyhlásenia
 >
 > Poskytnutie neúplných údajov pre potreby financovania zariadení poradenstva a prevencie sa do 30. septembra 2025 považuje na účel ukladania pokuty za správny delikt za poskytnutie neúplných údajov do Centrálneho registra detí, žiakov a poslucháčov.
@@ -176,7 +176,7 @@ Ustanovenie § 39hl je krátkym, ale prakticky významným prechodným ustanoven
 
 ### § 39hm
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenie počas trvania mimoriadnej situácie vyhlásenej v súvislosti s hromadným prílevom cudzincov na územie Slovenskej republiky spôsobeným ozbrojeným konfliktom na území Ukrajiny
 >
 > (1) Obec vedie evidenciu odídencov, ktorí sú štátnymi občanmi Ukrajiny, vo veku plnenia povinného predprimárneho vzdelávania a vo veku plnenia povinnej školskej dochádzky, ktorí majú v obci adresu dočasného útočiska, a vedie evidenciu, v ktorých školách sa vzdelávajú; na tento účel obec získava a spracúva údaje z informačného systému verejnej správy podľa osobitného predpisu33a) spôsobom podľa osobitného predpisu.33b)
@@ -198,7 +198,7 @@ Odseky 2 až 5 vytvárajú funkčný kontrolný a sankčný mechanizmus analogic
 
 ### § 39hn
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenia k úpravám účinným od 1. januára 2025
 >
 > (1) Konania o zaradení do siete, konania o vyradení zo siete, konania o zmene v sieti a konania o uložení pokuty začaté a právoplatne neskončené do 31. decembra 2024 sa dokončia podľa predpisov účinných do 31. decembra 2024.
@@ -209,7 +209,7 @@ Ustanovenie § 39hn opäť kombinuje dva typové mechanizmy prechodnej úpravy p
 
 ### § 39ho
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Na základe žiadosti samosprávneho kraja o zmenu v sieti podanej do 31. marca 2025 sa môžu stredné školy rovnakého druhu v jeho zriaďovateľskej pôsobnosti spojiť do jednej právnickej osoby bez organizačných zložiek.
 >
 > (2) Žiadosť o zmenu v sieti podľa odseku 1 obsahuje
@@ -238,14 +238,14 @@ Odsek 3 upravuje najdôležitejšie právne dôsledky spojenia škôl, ktoré ma
 
 ### § 39i
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Týmto zákonom sa preberajú právne záväzné akty Európskej únie uvedené v prílohe.
 
 Ustanovenie § 39i je štandardnou transpozičnou (notifikačnou) klauzulou, ktorá je povinnou súčasťou slovenských zákonov transponujúcich právo Európskej únie. Jej účelom nie je zakladať samostatné hmotnoprávne alebo procesné pravidlá, ale deklarovať, že (a v akom rozsahu) sa týmto zákonom vnútroštátne preberajú právne záväzné akty Európskej únie (typicky smernice), ktorých zoznam je uvedený v prílohe zákona. Takáto klauzula má význam predovšetkým z hľadiska notifikačnej povinnosti Slovenskej republiky voči orgánom Európskej únie (transpozícia smerníc musí byť formálne oznámená Európskej komisii) a z hľadiska výkladového — pri výklade jednotlivých ustanovení zákona, ktoré transponujú konkrétnu smernicu, je potrebné prihliadať na účel a znenie tejto smernice a na judikatúru Súdneho dvora Európskej únie vykladajúcu jej ustanovenia, v súlade so zásadou eurokonformného výkladu vnútroštátneho práva. V oblasti školského práva ide typicky o smernice týkajúce sa napríklad uznávania odborných kvalifikácií, rovnakého zaobchádzania a nediskriminácie, ochrany osobných údajov v kontexte spracúvania údajov o deťoch a žiakoch, alebo osobitných práv detí migrujúcich občanov Únie a ich rodinných príslušníkov na prístup ku vzdelávaniu.
 
 ### § 40
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zrušovacie ustanovenia
 >
 > Zrušujú sa:

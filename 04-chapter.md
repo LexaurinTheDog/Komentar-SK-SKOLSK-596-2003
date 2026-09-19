@@ -2,7 +2,7 @@
 
 ### § 22
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zriaďovacia listina školy a školského zariadenia
 >
 > (1) Zriaďovaciu listinu školy alebo školského zariadenia vydáva zriaďovateľ po zaradení školy alebo školského zariadenia do siete.
@@ -33,7 +33,7 @@ Odsek 3 rieši dynamiku zriaďovacej listiny v čase – akékoľvek zmeny (napr
 
 ### § 23
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zrušovanie škôl a školských zariadení
 >
 > (1) Škola alebo školské zariadenie sa po jeho vyradení zo siete zruší.
@@ -50,7 +50,7 @@ Odsek 3 ukladá zriaďovateľovi oznamovaciu povinnosť voči ministerstvu, a to
 
 ### § 23a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Centrálny register škôl, školských zariadení, elokovaných pracovísk a zriaďovateľov
 >
 > (1) Centrálny register škôl, školských zariadení, elokovaných pracovísk a zriaďovateľov (ďalej len „centrálny register“) je informačným systémom verejnej správy, ktorého správcom a prevádzkovateľom je ministerstvo. Centrálny register je verejný; rodné číslo fyzickej osoby ako údaj zapísaný do centrálneho registra sa nezverejňuje.
@@ -98,7 +98,7 @@ Odsek 8 napokon zakotvuje hmotnoprávnu zodpovednosť zriaďovateľa za správno
 
 ### § 24
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > DEVIATA ČASŤ
 > PÔSOBNOSŤ ORGÁNOV ŠKOLSKEJ SAMOSPRÁVY
 >
@@ -172,7 +172,7 @@ Odseky 12 až 16 obsahujú procesné a organizačné pravidlá spoločné pre v�
 
 ### § 25
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Členstvo v orgánoch školskej samosprávy
 >
 > (1) Rada školy sa skladá z 5 až 11 členov. Za ustanovenie rady školy zodpovedá zriaďovateľ.
@@ -238,7 +238,7 @@ Odsek 15 zveruje ministerstvu právomoc upraviť vykonávacím všeobecne závä
 
 ### § 26
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Školský parlament
 >
 > (1) Školský parlament reprezentuje žiakov základnej školy alebo strednej školy a zastupuje ich záujmy vo vzťahu k riaditeľovi, vedúcim pedagogickým zamestnancom alebo vedúcim odborným zamestnancom a navonok.
@@ -281,7 +281,7 @@ Funkčné obdobie predsedu a členov je limitované na maximálne 18 mesiacov (o
 
 ### § 35a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > DESIATA ČASŤ
 > SPOLOČNÉ, PRECHODNÉ A ZÁVEREČNÉ USTANOVENIA
 >
@@ -318,7 +318,7 @@ Odsek 6 upravuje osobitný informačný tok medzi Ministerstvom financií Sloven
 
 ### § 35b
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ústredný orgán štátnej správy plní úlohy obce podľa tohto zákona voči materským školám a zariadeniam školského stravovania v jeho zriaďovateľskej pôsobnosti.
 >
 > (2) Na účely delegovania zástupcov zriaďovateľa a na účely podľa § 5 ods. 7 za zriaďovateľa koná
@@ -335,7 +335,7 @@ Odsek 2 je typickým „technickým“ ustanovením s významným praktickým do
 
 ### § 37
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Priestupky
 >
 > (1) Priestupku sa dopustí zákonný zástupca dieťaťa, ktorý
@@ -363,7 +363,7 @@ Príslušnosť na prejednávanie priestupkov je rozdelená medzi obec (všeobecn
 
 ### § 37a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Správne delikty
 >
 > (1) Obec uloží pokutu od 30 eur do 331,50 eur, a to aj opakovane, zákonnému zástupcovi dieťaťa, ktorý je právnickou osobou a ktorý
@@ -420,7 +420,7 @@ Odseky 7 a 8 obsahujú spoločné procesné pravidlá – subjektívnu prekluzí
 
 ### § 38
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Rozsah pôsobnosti zákona
 >
 > (1) Tento zákon sa nevzťahuje na vysoké školy, školy v pôsobnosti Ministerstva vnútra Slovenskej republiky, Ministerstva spravodlivosti Slovenskej republiky.
@@ -449,7 +449,7 @@ Odsek 6 rieši špecifickú otázku určenia odvolacieho orgánu proti rozhodnut
 
 ### § 38a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pri spracúvaní a ochrane osobných údajov podľa tohto zákona sa postupuje podľa osobitného predpisu.81a)
 >
 > (2) Na účely podľa osobitného predpisu81b) sa za orgán verejnej moci považuje riaditeľ
@@ -472,7 +472,7 @@ Odseky 3 a 4 riešia technicky náročnú situáciu škôl a školských zariade
 
 ### § 38b
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Osobitné ustanovenia v čase mimoriadnej situácie, núdzového stavu alebo výnimočného stavu
 >
 > (1) V čase mimoriadnej situácie, núdzového stavu alebo výnimočného stavu (ďalej len „krízová situácia“) lehoty ustanovené v § 3 ods. 9 a 17 a § 4 ods. 4 neplynú.
@@ -499,7 +499,7 @@ Odsek 5 napokon rozširuje pozastavenie plynutia lehôt aj na konania, pri ktor�
 
 ### § 39
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenia
 >
 > (1) Orgány školskej samosprávy, ktoré boli ustanovené pred dňom nadobudnutia účinnosti tohto zákona, sa do skončenia ich funkčného obdobia považujú za orgány školskej samosprávy ustanovené podľa tohoto zákona.
@@ -544,7 +544,7 @@ Odsek 12 prevádza zriaďovateľskú pôsobnosť okresných a krajských úradov
 
 ### § 39a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenie k úpravám účinným od 1. januára 2007
 >
 > (1) Obec poskytne na roky 2007 až 2009 zriaďovateľovi podľa § 6 ods. 12 písm. b) finančné prostriedky najmenej vo výške 90 % objemu finančných prostriedkov vypočítaných podľa osobitného predpisu.85)
@@ -561,7 +561,7 @@ Odsek 3 opakuje (v totožnom znení, aké je obsiahnuté aj v § 39 ods. 11) int
 
 ### § 39b
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenie k úpravám účinným od 1. septembra 2009
 >
 > O žiadostiach o zaradení do siete alebo vyradení zo siete, ktoré boli podané a o ktorých sa právoplatne nerozhodlo do dňa účinnosti tohto zákona, sa rozhoduje podľa doterajších predpisov.
@@ -570,7 +570,7 @@ Toto ustanovenie je štruktúrou a obsahom identické s prechodným pravidlom uv
 
 ### § 39c
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenia k úpravám účinným od 1. januára 2013
 >
 > (1) Elokované pracoviská, detašované triedy a pobočky zriadené do 31. decembra 2012 sú elokované pracoviská podľa tohto zákona.
@@ -614,7 +614,7 @@ Odseky 6 až 9 upravujú neskoršiu, samostatnú problematiku elokovaných praco
 
 ### § 39d
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Funkčné obdobie riaditeľa súkromnej školy, riaditeľa súkromného školského zariadenia, riaditeľa cirkevnej školy alebo riaditeľa cirkevného školského zariadenia, ktoré je viac ako päť rokov,
 > a) sa končí uplynutím posledného dňa piateho roku funkčného obdobia, ak vykonáva funkciu riaditeľa menej ako päť rokov,
 > b) sa končí uplynutím posledného dňa funkčného obdobia, najneskôr však 30. júna 2014, ak vykonáva funkciu riaditeľa viac ako päť rokov.

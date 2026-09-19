@@ -2,7 +2,7 @@
 
 ### § 8a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Spádová materská škola
 >
 > (1) Obec určí všeobecne záväzným nariadením spádovú materskú školu v zriaďovateľskej pôsobnosti obce pre deti s trvalým pobytom v obci, v ktorej plnia povinné predprimárne vzdelávanie. Ak je obec zriaďovateľom viacerých materských škôl, všeobecne záväzným nariadením určí pre každú spádovú materskú školu časť svojho územia.
@@ -25,7 +25,7 @@ Odsek 4 rieši situáciu obcí, ktoré materskú školu vôbec nezriaďujú – 
 
 ### § 9
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Samosprávny kraj
 >
 > (1) Samosprávny kraj pri prenesenom výkone štátnej správy(22) zriaďuje uznesením zastupiteľstva samosprávneho kraja a zrušuje podľa siete
@@ -141,7 +141,7 @@ Odseky 13 a 14 rozlišujú medzi vecnou správou škôl (personál, materiál, f
 
 ### § 9aa
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zmluva o poskytnutí finančných prostriedkov na mzdy a prevádzku na dieťa, žiaka alebo na poslucháča
 >
 > (1) Zmluvu o poskytnutí finančných prostriedkov na mzdy a prevádzku na dieťa, žiaka alebo na poslucháča (ďalej len „zmluva o financovaní") uzatvára na príslušný kalendárny rok
@@ -179,7 +179,7 @@ Praktický význam má najmä prepojenie lehôt medzi § 9aa a § 6, resp. § 9:
 
 ### § 9a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Regionálny úrad
 >
 > (1) Regionálny úrad je orgánom miestnej štátnej správy v školstve.
@@ -244,7 +244,7 @@ Odsek 15 vymedzuje regionálny úrad ako služobný úrad štátnych zamestnanco
 
 ### § 10
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Regionálny úrad zriaďuje a zrušuje podľa siete
 > a) materské školy, ak to vyžadujú osobitné podmienky,
 > b) základné školy, ak to vyžadujú osobitné podmienky,
@@ -297,7 +297,7 @@ Druhá polovica ustanovenia (odseky 5 až 14) upravuje ďalšie, nezriaďovateľ
 
 ### § 11
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Regionálny úrad plní úlohy v oblasti financovania škôl a školských zariadení podľa osobitného predpisu.(31) Regionálny úrad overuje správnosť počtov detí alebo žiakov podľa stavu k 15. septembru začínajúceho školského roka a ďalších údajov potrebných na rozpis finančných prostriedkov poskytovaných ministerstvu zriaďovateľmi škôl, školami alebo školskými zariadeniami.
 >
 > (2) Regionálny úrad vo vzťahu ku školám a školským zariadeniam, ktorých je zriaďovateľom, ďalej
@@ -351,7 +351,7 @@ Odsek 4 zakotvuje dvojkoľajnú kontrolnú právomoc: všeobecnú kontrolu dodr�
 
 ### § 12
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Štátna školská inšpekcia
 >
 > (1) Štátna školská inšpekcia je orgán štátnej správy v školstve. Štátna školská inšpekcia je rozpočtová organizácia(37) so sídlom v Bratislave zapojená finančnými vzťahmi na rozpočet ministerstva;(37) jej organizačnými súčasťami sú školské inšpekčné centrá. Štátna školská inšpekcia je vo svojej činnosti nezávislá, riadi sa zákonmi a inými všeobecne záväznými právnymi predpismi.
@@ -385,7 +385,7 @@ Odsek 4 stanovuje zodpovednosť hlavného inšpektora ako vedúceho služobného
 
 ### § 13
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Úlohy štátnej školskej inšpekcie
 >
 > (1) Štátna školská inšpekcia plní funkciu kontroly štátu nad úrovňou pedagogického riadenia, nad úrovňou výchovy a vzdelávania a materiálno-technických podmienok vrátane praktického vyučovania v školách a školských zariadeniach, na pracoviskách praktického vyučovania a nad úrovňou činností v špeciálnych výchovných zariadeniach a školských zariadeniach výchovného poradenstva a prevencie (ďalej len „kontrolovaný subjekt"). V tejto oblasti vybavuje sťažnosti a petície.(33)

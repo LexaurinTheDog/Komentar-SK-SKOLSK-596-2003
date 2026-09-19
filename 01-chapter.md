@@ -2,7 +2,7 @@
 
 ### § 1
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Základné ustanovenia
 >
 > Tento zákon upravuje pôsobnosť, organizáciu a úlohy orgánov štátnej správy v školstve, obcí, samosprávnych krajov a orgánov školskej samosprávy a určuje ich pôsobnosť v oblasti výkonu štátnej správy v školstve a školskej samosprávy, v oblasti tvorby siete škôl a školských zariadení Slovenskej republiky (ďalej len „sieť“), zaraďovania, vyraďovania a zmien v sieti a v oblasti zriaďovania a zrušovania škôl a školských zariadení.
@@ -11,7 +11,7 @@
 
 ### § 2
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Výkon štátnej správy v školstve a školskej samosprávy
 >
 > (1) Štátnu správu v školstve na úseku škôl1) a školských zariadení2) podľa tohto zákona vykonávajú:
@@ -33,7 +33,7 @@ Ustanovenie vytvára úplný organizačný prehľad subjektov, ktoré sa v škol
 
 ### § 3
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Vymenúvanie a odvolávanie riaditeľa školy alebo riaditeľa školského zariadenia
 >
 > (1) Riaditeľa vymenúva na dobu funkčného obdobia a odvoláva zriaďovateľ školy alebo zriaďovateľ školského zariadenia (ďalej len „zriaďovateľ").
@@ -93,7 +93,7 @@ Procesné záruky obsahuje odsek 9 (povinné, hoci nie vždy záväzné, vyjadre
 
 ### § 3a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zánik výkonu funkcie riaditeľa
 >
 > (1) Výkon funkcie riaditeľa zaniká
@@ -110,7 +110,7 @@ Ustanovenie § 3a, zaradené do zákona neskoršou novelizáciou, prehľadne sys
 
 ### § 4
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Výberové konanie
 >
 > (1) Výberové konanie na obsadenie miesta riaditeľa vyhlasuje zriaďovateľ spôsobom ustanoveným osobitným predpisom.6) Oznámenie o vyhlásení výberového konania na obsadenie miesta riaditeľa okrem predpokladov určených osobitným predpisom13b) obsahuje aj požiadavku na predloženie návrhu koncepcie rozvoja školy alebo školského zariadenia.
@@ -129,7 +129,7 @@ Odsek 3 rieši osobitosť zloženia rady školy pre potreby výberového konania
 
 ### § 5
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Školu a školské zariadenie riadi riaditeľ.
 >
 > (2) Riaditeľ zodpovedá za
@@ -237,7 +237,7 @@ Odseky 10 až 12 a 15 až 16 upravujú osobitné oznamovacie povinnosti riadite�
 
 ### § 6
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Obec
 >
 > (1) Obec pri prenesenom výkone štátnej správy22) zriaďuje uznesením obecného zastupiteľstva a zrušuje podľa siete
@@ -380,7 +380,7 @@ Odsek 19 a 20 upravujú evidenčné povinnosti obce súvisiace s plnením povinn
 
 ### § 7
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Školským úradom je obec, ktorá je zriaďovateľom škôl podľa § 6 ods. 1 s celkovým počtom najmenej 1 000 detí a žiakov. Školský úrad vzniká od 1. januára kalendárneho roka. Dátum rozhodujúci na určenie počtu detí a žiakov je 15. september predchádzajúceho kalendárneho roka.
 >
 > (2) Za školský úrad sa považujú aj obce, pre ktoré na základe dohody podľa osobitného predpisu35) odborne zabezpečuje úlohy a činnosti v oblasti školstva, mládeže a telesnej kultúry spoločný obecný úrad, pričom celkový počet detí a žiakov škôl v týchto obciach je najmenej 1 000.
@@ -401,7 +401,7 @@ Odsek 3 stanovuje kvalifikačné predpoklady zamestnanca zabezpečujúceho odbor
 
 ### § 8
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Školský obvod základnej školy
 >
 > (1) Obec určí svojím všeobecne záväzným nariadením školský obvod základnej školy zriadenej obcou. Školský obvod základnej školy tvorí územie obce alebo jej časť. Ak je obec zriaďovateľom viacerých základných škôl, obec svojím všeobecne záväzným nariadením určí školské obvody pre jednotlivé základné školy. Obec pri určení školského obvodu základnej školy zohľadní najmä

@@ -2,7 +2,7 @@
 
 ### § 13a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Do výchovného a vzdelávacieho procesu v školách, školských zariadeniach a pracoviskách praktického vyučovania môžu vstupovať školskí inšpektori Štátnej školskej inšpekcie.
 >
 > (2) Školským inšpektorom môže byť ten, kto spĺňa kvalifikačné predpoklady vysokoškolského vzdelania pre príslušný druh, typ a stupeň školy alebo školského zariadenia, najmenej osem rokov vykonával pracovnú činnosť47da) v škole alebo v školskom zariadení, absolvoval I. kvalifikačnú skúšku alebo jej náhradu a pôsobil minimálne tri roky v riadiacej funkcii v školstve alebo v pracovnom zaradení metodika alebo v pracovnom zaradení školského inšpektora, alebo absolvoval II. kvalifikačnú skúšku alebo jej náhradu.
@@ -17,7 +17,7 @@ Odseky 2 a 3 stanovujú kvalifikačné predpoklady dvojakého druhu — pre bež
 
 ### § 13b
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Školskí inšpektori a osoby podľa § 13 ods. 3 sú pri výkone školskej inšpekcie a vybavovaní sťažností oprávnení spracúvať osobné údaje o
 > a) deťoch, žiakoch a poslucháčoch v rozsahu
 > 1. meno a priezvisko,
@@ -43,7 +43,7 @@ Odsek 2 ustanovuje mlčanlivosť všetkých osôb, ktoré sa pri plnení služob
 
 ### § 14
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ministerstvo podľa tohto zákona riadi výkon štátnej správy na úseku školstva vypracovávaním koncepcií a vydávaním všeobecne záväzných právnych predpisov, smerníc a pokynov, zjednocovaním postupu pri ich používaní a kontroluje tento výkon.27)
 >
 > (2) Ministerstvo na plnenie svojich úloh v rozsahu svojej pôsobnosti ďalej zriaďuje a zrušuje rozpočtové alebo príspevkové organizácie, ktorých štatutárne orgány vymenúva a odvoláva minister. Sú to najmä organizácie na zabezpečovanie odborného a metodického pôsobenia v oblasti školského kurikula, výchovno-vzdelávacieho procesu, profesijného rozvoja pedagogických zamestnancov a odborných zamestnancov a rezortného výskumu a spracovania dát.
@@ -115,7 +115,7 @@ Odseky 7 až 9 upravujú osobitný mechanizmus štátneho príspevku cirkvám a 
 
 ### § 15
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Sieť
 >
 > (1) Sieť je zoznam škôl a školských zariadení, ktoré majú oprávnenie uskutočňovať výchovu a vzdelávanie.51)
@@ -143,7 +143,7 @@ Odsek 3 vymedzuje dva kľúčové právne dôsledky zaradenia do siete — oprá
 
 ### § 16
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zaraďovanie škôl a školských zariadení do siete
 >
 > (1) Žiadosť o zaradenie školy alebo školského zariadenia do siete predkladá zriaďovateľ ministerstvu do 31. marca kalendárneho roka, ktorý predchádza roku, v ktorom má byť škola alebo školské zariadenie zriadené. Žiadosť obsahuje
@@ -209,7 +209,7 @@ Odsek 5 upravuje kľúčové procesné parametre konania: jediným účastníkom
 
 ### § 17
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Vyraďovanie škôl alebo školských zariadení zo siete
 >
 > (1) Žiadosť na vyradenie školy alebo školského zariadenia zo siete predkladá
@@ -265,7 +265,7 @@ Odsek 10 rieši osobitnú situáciu zániku zriaďovateľa, ktorým je právnick
 
 ### § 18
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zmeny v sieti
 >
 > (1) Zmeny v sieti sú zmeny údajov podľa § 15 ods. 4.
@@ -327,7 +327,7 @@ Odseky 6 až 8 upravujú osobitný, kvalifikovaný podtyp zmeny v sieti — vzni
 
 ### § 19
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zriaďovanie škôl alebo školských zariadení
 >
 > (1) Školu alebo školské zariadenie možno zriadiť až po jeho zaradení do siete.
@@ -364,7 +364,7 @@ Odseky 6 až 8 podrobne upravujú inštitút elokovaného pracoviska, ktorého v
 
 ### § 20
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Škola s organizačnými zložkami
 >
 > (1) Školu možno zriadiť ako jednu právnickú osobu s viacerými organizačnými zložkami, ktorými je spojenie akejkoľvek kombinácie materskej školy, základnej školy, strednej školy alebo školského zariadenia alebo spojenie škôl rovnakého druhu alebo typu. Organizačné zložky takto zriadenej spojenej školy nie sú právnické osoby.
@@ -398,7 +398,7 @@ Odsek 8 rieši pracovnoprávne a organizačné dôsledky vzniku spojenej školy:
 
 ### § 20a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Na základe dohody zriaďovateľov sa môžu materské školy, základné školy, základné umelecké školy a školské zariadenia združiť do jednej právnickej osoby. Zriaďovateľom združenia škôl a školských zariadení sú všetci zriaďovatelia spoločne.
 >
 > (2) Školy a školské zariadenia, ktoré sú združené v združení, zostávajú právnickými osobami.
@@ -420,7 +420,7 @@ Odsek 4 dopĺňa procesné prepojenie na siedmu časť zákona: vzniku klastra n
 
 ### § 21
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Označovanie škôl alebo školských zariadení
 >
 > (1) Názov školy sa skladá z označenia druhu školy a názvu ulice, súpisného čísla alebo orientačného čísla hlavnej budovy a úradného názvu sídla školy; názov školy môže obsahovať aj typ školy a označenie, ktoré charakterizuje zriaďovateľa alebo inú charakteristiku hodnú osobitného zreteľa. Názov školy sa uvádza v prvom páde. So súhlasom ministerstva môže škola na základe žiadosti používať jej historický názov alebo čestný názov. Ak ministerstvo udelilo škole historický názov alebo čestný názov, je súčasťou názvu školy a uvedie sa za druhom alebo typom školy. Čestný názov tvorí meno a priezvisko významnej osobnosti alebo pomenovanie významnej udalosti, ktorá má priamy vzťah ku škole. Historický názov tvorí historická spätosť so školou alebo školským zariadením. Názov školy musí byť zhodný s názvom školy uvedeným v sieti.
